@@ -9,4 +9,3 @@ num3= 55
 num4= 20
 addition = num4 + num3
 print("The addition of", num4, "and", num3, "is:", addition)
-
