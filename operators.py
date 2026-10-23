@@ -33,4 +33,3 @@ print("__________________________________membership  operator___________________
 name = ["Onkar"]
 print("Onkar" in name)
 print('j' in name)
-
